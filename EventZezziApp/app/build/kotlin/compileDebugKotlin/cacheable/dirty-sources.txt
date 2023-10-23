@@ -1,0 +1,14 @@
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\data\networking\response\MealResponse.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\data\repository\MealsRepository.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\ui\meals\view\MealsCategorieUiState.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\navigation\AppBar.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\data\networking\MealsWebService.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\ui\meals\view\MealsCategoriesScreen.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\navigation\NavigationState.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\ui\theme\Color.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\navigation\Navigation.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\ui\theme\Type.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\MainActivity.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\data\networking\MealsApi.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\ui\meals\view\MealsCategoriesViewModel.kt
+C:\Users\Daniel Barillas\Documents\GitHub\android-compose-uvg\EventZezziApp\app\src\main\java\com\zezzi\eventzezziapp\ui\theme\Theme.kt
